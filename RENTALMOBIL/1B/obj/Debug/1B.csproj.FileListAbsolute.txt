@@ -1,0 +1,29 @@
+D:\Kuliah\Provis\kuis\1B\1B\bin\Debug\1B.exe.config
+D:\Kuliah\Provis\kuis\1B\1B\bin\Debug\1B.exe
+D:\Kuliah\Provis\kuis\1B\1B\bin\Debug\1B.pdb
+D:\Kuliah\Provis\kuis\1B\1B\obj\Debug\1B.csprojResolveAssemblyReference.cache
+D:\Kuliah\Provis\kuis\1B\1B\obj\Debug\_1B.Form1.resources
+D:\Kuliah\Provis\kuis\1B\1B\obj\Debug\_1B.Properties.Resources.resources
+D:\Kuliah\Provis\kuis\1B\1B\obj\Debug\1B.csproj.GenerateResource.Cache
+D:\Kuliah\Provis\kuis\1B\1B\obj\Debug\1B.exe
+D:\Kuliah\Provis\kuis\1B\1B\obj\Debug\1B.pdb
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\bin\Debug\1B.exe.config
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\obj\Debug\1B.exe
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\obj\Debug\1B.pdb
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\bin\Debug\1B.exe
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\bin\Debug\1B.pdb
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\obj\Debug\1B.csprojResolveAssemblyReference.cache
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\obj\Debug\_1B.Form1.resources
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\obj\Debug\_1B.Properties.Resources.resources
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\obj\Debug\1B.csproj.GenerateResource.Cache
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\bin\Debug\1B.exe.manifest
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\bin\Debug\1B.application
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\obj\Debug\1B.exe.manifest
+D:\Kuliah\Provis\kuis1_shift1_1500228_Trisna Risnandar\1B\1B\obj\Debug\1B.application
+C:\Users\asus\Downloads\Rental Mobil\1B\1B\obj\Debug\1B.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Rental Mobil\1B\1B\obj\Debug\_1B.Form1.resources
+C:\Users\asus\Downloads\Rental Mobil\1B\1B\obj\Debug\_1B.Properties.Resources.resources
+C:\Users\asus\Downloads\Rental Mobil\1B\1B\obj\Debug\1B.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Rental Mobil\1B\1B\obj\Debug\1B.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Rental Mobil\1B\1B\obj\Debug\1B.exe
+C:\Users\asus\Downloads\Rental Mobil\1B\1B\obj\Debug\1B.pdb
